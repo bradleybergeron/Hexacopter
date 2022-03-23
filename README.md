@@ -2,6 +2,7 @@
 Hexacopter Camera Drone -- WIP
 
 Overview
+This is my attempt to 3d print and build a drone. The primary purpose of the drone is for photography and long flight time. Long term goals would be to play with different camera payloads and sensors.
 
 Parts List
 - Flight Controller - Matek Systems F722-SE
@@ -10,9 +11,9 @@ Parts List
 - PDB - Matek Systems FCHUB-6S
 - FPV Cam - TS5828L 1500TVL
 - Gimbal - https://www.thingiverse.com/thing:2538360
---- Controller - Storm32 BGC
---- Gimble Motors - 2x 2804 100kv
---- Gimble Motors - 1x 2206 100T
+-- Controller - Storm32 BGC
+-- Gimble Motors - 2x 2804 100kv
+-- Gimble Motors - 1x 2206 100T
 - GPS/Compass - Matek Systems M8Q-5883
 - Range Finder (down) - Benewake TFLuna 0.2-8m 100Hz LiDAR
 - FVP Monitor - 480x272 FPV monitor
@@ -21,4 +22,5 @@ Parts List
 Printing
 Printing was done entirely in ABS+ on my Voron V2.4 using default Voron settings. 
 
+Images
 ![Hexacopter](Images/hexacopter.jpg)
