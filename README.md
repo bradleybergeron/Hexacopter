@@ -1,5 +1,5 @@
 # Hexacopter
-Hexacopter Camera Drone
+Hexacopter Camera Drone -- WIP
 
 Overview
 
@@ -20,3 +20,5 @@ Parts List
 
 Printing
 Printing was done entirely in ABS+ on my Voron V2.4 using default Voron settings. 
+
+![Hexacopter](Images/hexacopter.jpg)
